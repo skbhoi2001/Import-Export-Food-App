@@ -38,3 +38,14 @@ grid-template-columns: 30% 70%;
     width: 100%;
 
 }
+#searchData>div{
+    margin-top: 10px;
+    display: grid;
+    gap: 50px
+    ;
+    grid-template-columns: 40% 60%;
+
+}
+#searchData>div>img{
+    width: 100%;
+}
