@@ -14,6 +14,7 @@ function searchData() {
 }
 function showData(data) {
     const cont = document.getElementById("searchData")
+    document.getElementById('display').innerHTML=""
     cont.textContent = null
         let div = document.createElement('div')
         let image = document.createElement('img');
