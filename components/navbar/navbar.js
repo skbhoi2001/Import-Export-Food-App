@@ -2,7 +2,7 @@ function navbar(){
     return `<div id="navbar">
     <div id="input">
         <input type="text" id="search">
-        <buton id="btn-search" onclick="alert(555)">Search</buton>
+        <buton id="btn-search" >Search</buton>
     </div>
     <div id="others">
         <a href="index.html">Home</a>

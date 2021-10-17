@@ -29,3 +29,12 @@
     font-size: 25px;
     font-weight: 700;
 }
+#display>div{
+display: grid;
+gap: 30px;
+grid-template-columns: 30% 70%;
+}
+#image-data>img{
+    width: 100%;
+
+}
